@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="App_Services.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="conString" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Password=paslbkmobile;User ID=lbkmobile;Initial Catalog=Lbk.MobileApp;Data Source=Crossfire</Value>
+    </Setting>
+    <Setting Name="clsLBKLibrary_loewenbraeusms_Service1" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://loewenbraeusms.ip-connect.de/Service1.asmx</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
